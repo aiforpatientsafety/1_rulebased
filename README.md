@@ -1,3 +1,7 @@
+# Direct Download Link
+Please access to the full code and necessary files from this DDL
+https://drive.google.com/file/d/1z4-dgpxdau6tlk4Dq1iYsPv1Hw_6LMut/view?usp=sharing
+
 # Parser for Medical Incident Reports
 
 This folder contains a script that allows it's users to parse a Medical Incident Reports (MIR) into 12
